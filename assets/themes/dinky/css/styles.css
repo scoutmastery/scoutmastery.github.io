@@ -55,11 +55,11 @@ h1, h2, h3 {
 h1,h2, h3 {
 	display: block;
 	border-bottom: 1px solid #ccc;
-	padding-bottom: 5px;	
+	padding-bottom: 5px;
 }
 
 h1 {
-	font-size: 30px;
+	font-size: 28px;
 }
 
 h2 {
@@ -206,7 +206,7 @@ td {
 header {
 	background-color: #171717;
 	color: #FDFDFB;
-  width:170px;
+  width:190px;
   float:left;
   position:fixed;
 	border: 1px solid #000;
