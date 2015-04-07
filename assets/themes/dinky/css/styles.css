@@ -247,6 +247,10 @@ a.name {
 	white-space: nowrap;
 }
 
+.whiteText {
+  color:white;
+}
+
 header ul {
   list-style:none;
   padding:0;
