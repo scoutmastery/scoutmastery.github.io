@@ -12,3 +12,4 @@
 "If you make listening and observation your occupation, you will gain much more than you can by talk." --BP
 "Beautiful minds inspire others" -anon
 "Wake up! Get busy! You have only one life-day to live, so make the best of every minute of it." --BP
+"An invaluable step in character training is to put responsibility on the individual." --BP
