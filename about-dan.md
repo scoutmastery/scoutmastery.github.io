@@ -14,4 +14,4 @@ I owe my involvement in scouting to my being a member of the Church of Jesus Chr
 
 #### Husband and Father
 
-I am married to the most wonderful woman ever and am the father of 5 children, including one new Cub Scout. If there's anything my kids have loved, it has been going with Dad to Scouts. I owe them for every moment I get to volunteer as a leader in Scouts today.
+I am married to the most wonderful woman ever and am the father of 5 children, including one new Cub Scout. If there's anything my kids have loved, it has been going with Dad to Scouts. I owe every moment I get to volunteer as a leader in Scouts today to my family and their support.
