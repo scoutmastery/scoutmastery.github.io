@@ -7,13 +7,13 @@ tagline: A place for scouters and scout things
 
 ## What is this site?
 
-A blogger I follow talks about the **Magic of 7**, namely that
+A blogger I follow talks about the [**Magic of 7**](http://seanwes.com/podcast/153-the-magic-of-7/), namely that
 
->"it takes hearing new information 7 times before it’s retained." 
+>"It takes hearing new information 7 times before it’s retained." 
 
 In other words, what is found on this site is not necessarily new. In fact, this may be the _umpteenth_ time hearing what you've read. However, **it is the aim of the site to "do a good turn daily"** and to **"help other people at all times."**
 
-If what you've found here is helpful, please feel free to pass it on.
+####If what you've found here is helpful, please feel free to pass it on.
 
     
 ## Recent Posts
