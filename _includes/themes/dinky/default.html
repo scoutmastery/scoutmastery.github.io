@@ -22,6 +22,8 @@
         <h1 class="header"><a href="{{ HOME_PATH }}">{{ site.title }}</a></h1>
         <p class="header">{{ site.tagline }}</p>
         <ul>
+          <li><a href="{{ BASE_PATH }}/minutes">Scoutmaster Minutes</a></li>
+          <hr />
           {% assign pages_list = site.pages %}
           {% assign group = 'navigation' %}
           {% include JB/pages_list %}
@@ -40,7 +42,6 @@
         {% endif %}
         {% if site.author %}
         <div class="misc vcard">
-          <h4 class="whiteText">about</h4>
           <ul>
             {% if site.author.email %}
             <li class="contact"><a href="/about-dan.html">About Dan</a></li>
