@@ -17,6 +17,10 @@ author :
   twitter : 
   feedburner : scoutmastery
 
+bitly: 
+    username: dgclegg 
+    api_key: R_e1409c8448803db17e61eaea8b042ecf
+
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
@@ -109,7 +113,7 @@ JB :
   #
   sharing :
     provider : false
-    
+
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
   #
