@@ -6,7 +6,7 @@ description: ""
 {% include JB/setup %}
 #### Scouter
 
-I have began Scouting for 23 years, 4 months, 24 days (at the time of this writing). I have been in and out of the programs, as a participant and a leader, but I have never quit being a Scout. I'm a proud Eagle Scout, [I used to be an Eagle](http://www.woodbadge.org/), and am currently the Troop/Team/Crew Committee Chairman for our local unit.
+I have been Scouting for 23 years, 4 months, 24 days (at the time of this writing). I have been in and out of the programs, as a participant and a leader, but I have never quit being a Scout. I'm a proud Eagle Scout, [I used to be an Eagle](http://www.woodbadge.org/), and am currently the Troop/Team/Crew Committee Chairman for our local unit.
 
 #### Mormon
 
