@@ -2,8 +2,8 @@
 layout: post
 title: "The Aims of Scouting and Christ"
 description: ""
-category: 
-tags: []
+category: "Scoutmasters Minute"
+tags: [Duty to God,christian,christ,aims,aims of scouting,mental fitness, physical fitness,character development,citizenship]
 ---
 {% include JB/setup %}
 
@@ -21,6 +21,6 @@ In the Christian faith, the Bible instructs that Jesus' young life followed thes
 
 >And Jesus increased in wisdom and stature, and in favour with God and man.
 
-In other words, Jesus succeeded in _character development_ ("favor with God"), citizenship training ("favor...with man") and mental and physical fitness ("increased in wisdom and stature").
+In other words, Jesus succeeded in _character development_ ("favor with God"), _citizenship training_ ("favor...with man") and _mental and physical fitness_ ("increased in wisdom and stature").
 
-Let us each seek to 
+Let us each make these aims our own so that (in hitting our target) we can each move toward the person we would like to be.
