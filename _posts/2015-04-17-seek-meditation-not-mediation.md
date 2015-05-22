@@ -24,7 +24,7 @@ When faced with this reality, what is needed most instead of mediation is medita
 
 Through this introspection, one can make peace within their core & mind and in turn be peaceful to all they meet.
 
-A favorite hymn of mine is "[Take time to be holy](https://www.lds.org/music/text/other/take-time-to-be-holy-dickman?lang=eng)."
+A favorite hymn of mine is "[Take time to be holy](http://alloverthepiano.com/wp-content/uploads/2013/02/Take-time-to-be-Holy-Revised.pdf)."
 
 A Scout is reverent, kind and cheerful.
 
